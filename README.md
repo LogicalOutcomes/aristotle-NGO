@@ -1,0 +1,2 @@
+# aristotle-NGO
+This is a private repository for handling issues related to the usability of the Aristotle metadata registry. The software itself is at https://github.com/aristotle-mdr/aristotle-metadata-registry. 
